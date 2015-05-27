@@ -39,6 +39,7 @@
     <header-file src="ios/GAITrackedViewController.h" />
     <header-file src="ios/GAITracker.h" />
     <source-file src="ios/libGoogleAnalyticsServices.a" framework="true" />
+    <source-file src="ios/libAdIdAccess.a" framework="true" />
     <header-file src="ios/GoogleAnalyticsPlugin.h" />
     <source-file src="ios/GoogleAnalyticsPlugin.m" />
 
@@ -46,6 +47,7 @@
     <framework src="CoreData.framework" />
     <framework src="libsqlite3.dylib" />
     <framework src="libz.dylib" />
+    <framework src="AdSupport.framework" />
   </platform>
 
   <platform name="android">
