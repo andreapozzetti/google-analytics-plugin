@@ -13,7 +13,7 @@
   <author>Craig MacKay</author>
   <license>Apache 2.0</license>
   <keywords>cordova,analytics</keywords>
-  <repo>https://github.com/cmackay/google-analytics-plugin.git</repo>
+  <repo>https://github.com/andreapozzetti/google-analytics-plugin.git</repo>
 
   <js-module src="www/analytics.js" name="GoogleAnalytics">
     <clobbers target="navigator.analytics" />
