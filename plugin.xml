@@ -45,9 +45,9 @@
 
     <framework src="SystemConfiguration.framework" />
     <framework src="CoreData.framework" />
+    <framework src="AdSupport.framework" />
     <framework src="libsqlite3.dylib" />
     <framework src="libz.dylib" />
-    <framework src="AdSupport.framework" />
   </platform>
 
   <platform name="android">
